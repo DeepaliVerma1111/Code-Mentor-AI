@@ -1,4 +1,0 @@
-start backend- mvnw.cmd spring-boot:run
-to check backend api health-curl http://localhost:8080/api/health
-to start frontend- npm run dev
-
